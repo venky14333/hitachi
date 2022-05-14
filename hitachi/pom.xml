@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>hitachi.App</mainClass>
+		<mainClass>project1.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
